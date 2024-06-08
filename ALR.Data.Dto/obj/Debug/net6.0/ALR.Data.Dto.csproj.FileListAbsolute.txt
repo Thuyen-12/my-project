@@ -1,0 +1,15 @@
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\obj\Debug\net6.0\ALR.Data.Dto.csproj.AssemblyReference.cache
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\obj\Debug\net6.0\ALR.Data.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\obj\Debug\net6.0\ALR.Data.Dto.AssemblyInfoInputs.cache
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\obj\Debug\net6.0\ALR.Data.Dto.AssemblyInfo.cs
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\obj\Debug\net6.0\ALR.Data.Dto.csproj.CoreCompileInputs.cache
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\bin\Debug\net6.0\ALR.Data.Dto.deps.json
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\bin\Debug\net6.0\ALR.Data.Dto.dll
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\bin\Debug\net6.0\ALR.Data.Dto.pdb
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\bin\Debug\net6.0\ALR.Domain.Entities.dll
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\bin\Debug\net6.0\ALR.Domain.Entities.pdb
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\obj\Debug\net6.0\ALR.Data.Dto.csproj.CopyComplete
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\obj\Debug\net6.0\ALR.Data.Dto.dll
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\obj\Debug\net6.0\refint\ALR.Data.Dto.dll
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\obj\Debug\net6.0\ALR.Data.Dto.pdb
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Dto\obj\Debug\net6.0\ref\ALR.Data.Dto.dll

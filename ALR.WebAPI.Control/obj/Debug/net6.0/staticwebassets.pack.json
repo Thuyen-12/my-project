@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hobbs.la\\Desktop\\DATN_Spring24_Main\\alr_capstone_project\\ALR_Capston_Project\\ALR.WebAPI.Control\\wwwroot\\1689786863909.jpeg",
+      "PackagePath": "staticwebassets\\1689786863909.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hobbs.la\\Desktop\\DATN_Spring24_Main\\alr_capstone_project\\ALR_Capston_Project\\ALR.WebAPI.Control\\wwwroot\\Elegant  Apartments  For Rent Facebook Post (200 x 604 px).png",
+      "PackagePath": "staticwebassets\\Elegant  Apartments  For Rent Facebook Post (200 x 604 px).png"
+    },
+    {
+      "Id": "C:\\Users\\hobbs.la\\Desktop\\DATN_Spring24_Main\\alr_capstone_project\\ALR_Capston_Project\\ALR.WebAPI.Control\\wwwroot\\OIP (1).jpg",
+      "PackagePath": "staticwebassets\\OIP (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\hobbs.la\\Desktop\\DATN_Spring24_Main\\alr_capstone_project\\ALR_Capston_Project\\ALR.WebAPI.Control\\wwwroot\\OIP.jpg",
+      "PackagePath": "staticwebassets\\OIP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hobbs.la\\Desktop\\DATN_Spring24_Main\\alr_capstone_project\\ALR_Capston_Project\\ALR.WebAPI.Control\\wwwroot\\abc.jpg",
+      "PackagePath": "staticwebassets\\abc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hobbs.la\\Desktop\\DATN_Spring24_Main\\alr_capstone_project\\ALR_Capston_Project\\ALR.WebAPI.Control\\wwwroot\\anh-dep-jpg-fujifilm-2.jpg",
+      "PackagePath": "staticwebassets\\anh-dep-jpg-fujifilm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hobbs.la\\Desktop\\DATN_Spring24_Main\\alr_capstone_project\\ALR_Capston_Project\\ALR.WebAPI.Control\\wwwroot\\download.png",
+      "PackagePath": "staticwebassets\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\hobbs.la\\Desktop\\DATN_Spring24_Main\\alr_capstone_project\\ALR_Capston_Project\\ALR.WebAPI.Control\\wwwroot\\ghk010123homeminifeature-023-4-646e91f8cabc6.jpg",
+      "PackagePath": "staticwebassets\\ghk010123homeminifeature-023-4-646e91f8cabc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hobbs.la\\Desktop\\DATN_Spring24_Main\\alr_capstone_project\\ALR_Capston_Project\\ALR.WebAPI.Control\\wwwroot\\logoUet.png",
+      "PackagePath": "staticwebassets\\logoUet.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ALR.WebAPI.Control.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ALR.WebAPI.Control.props",
+      "PackagePath": "build\\ALR.WebAPI.Control.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ALR.WebAPI.Control.props",
+      "PackagePath": "buildMultiTargeting\\ALR.WebAPI.Control.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ALR.WebAPI.Control.props",
+      "PackagePath": "buildTransitive\\ALR.WebAPI.Control.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

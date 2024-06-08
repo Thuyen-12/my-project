@@ -1,0 +1,12 @@
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\bin\Debug\net6.0\ALR.Data.Base.deps.json
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\bin\Debug\net6.0\ALR.Data.Base.dll
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\bin\Debug\net6.0\ALR.Data.Base.pdb
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\obj\Debug\net6.0\ALR.Data.Base.csproj.AssemblyReference.cache
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\obj\Debug\net6.0\ALR.Data.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\obj\Debug\net6.0\ALR.Data.Base.AssemblyInfoInputs.cache
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\obj\Debug\net6.0\ALR.Data.Base.AssemblyInfo.cs
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\obj\Debug\net6.0\ALR.Data.Base.csproj.CoreCompileInputs.cache
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\obj\Debug\net6.0\ALR.Data.Base.dll
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\obj\Debug\net6.0\refint\ALR.Data.Base.dll
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\obj\Debug\net6.0\ALR.Data.Base.pdb
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Data.Base\obj\Debug\net6.0\ref\ALR.Data.Base.dll

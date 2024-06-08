@@ -1,0 +1,14 @@
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\bin\Debug\net6.0\ALR.Domain.Entities.deps.json
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\bin\Debug\net6.0\ALR.Domain.Entities.runtimeconfig.json
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\bin\Debug\net6.0\ALR.Domain.Entities.dll
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\bin\Debug\net6.0\ALR.Domain.Entities.pdb
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\obj\Debug\net6.0\ALR.Domain.Entities.csproj.AssemblyReference.cache
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\obj\Debug\net6.0\ALR.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\obj\Debug\net6.0\ALR.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\obj\Debug\net6.0\ALR.Domain.Entities.AssemblyInfo.cs
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\obj\Debug\net6.0\ALR.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\obj\Debug\net6.0\ALR.Domain.Entities.dll
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\obj\Debug\net6.0\refint\ALR.Domain.Entities.dll
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\obj\Debug\net6.0\ALR.Domain.Entities.pdb
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\obj\Debug\net6.0\ALR.Domain.Entities.genruntimeconfig.cache
+C:\Users\hobbs.la\Desktop\DATN_Spring24_Main\alr_capstone_project\ALR_Capston_Project\ALR.Domain.Entities\obj\Debug\net6.0\ref\ALR.Domain.Entities.dll
